@@ -11,7 +11,7 @@ https://arxiv.org/pdf/1508.01211.pdf
 
 ## Datasets
 The dataset I used is the LibriSpeech dataset. It contains about 1000 hours of 16kHz read English speech.
-It is available here:\
+It is available here: \
 - http://www.openslr.org/12/
 
 ## Code 
@@ -19,7 +19,7 @@ I uploaded three **.py** files and one **.ipynb** file. The .py files contain th
 
 ## Architecture
 **Seq2Seq model**\
-As I mentioned above the model architecture is similar to the one used in "Listen, Attend and Spell".
+As I mentioned above the model architecture is similar to the one used in "Listen, Attend and Spell", i.e. we are using pyramidal bidirectional LSTMs in the encoder. This reduces the time resolution and enhances the performance on longer sequences.
 
 - Encoder-Decoder
 - Pyramidal Bidirectional LSTM

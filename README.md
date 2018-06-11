@@ -6,8 +6,8 @@ https://arxiv.org/pdf/1508.01211.pdf
 - Tensorflow
 - numpy
 - pandas 
--librosa
--python_speech_features
+- librosa
+- python_speech_features
 
 ## Datasets
 The dataset I used is the LibriSpeech dataset. It contains about 1000 hours of 16kHz read English speech.

@@ -11,8 +11,7 @@ https://arxiv.org/pdf/1508.01211.pdf
 
 ## Datasets
 The dataset I used is the LibriSpeech dataset. It contains about 1000 hours of 16kHz read English speech.
-It is available here: \
-- http://www.openslr.org/12/
+It is available here: http://www.openslr.org/12/
 
 ## Code 
 I uploaded three **.py** files and one **.ipynb** file. The .py files contain the network implementation and utilities. The Jupyter Notebook is a demo of how to apply the model.
